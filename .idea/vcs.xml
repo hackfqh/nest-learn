@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/10./all-decorator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/11./argument-host" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/12./custom-decorator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/13./metadata-and-reflector" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/14./module-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/5." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/7./custom-provider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/8./global-and-lifecycle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/9./aop-test" vcs="Git" />
+  </component>
+</project>
